@@ -1,6 +1,7 @@
 # MarshlingUnmarshling
 
-Through the given project create:-
+Through the given project
+
 1.fetching xml values show on console.
 2.java to xml,
 3.XML to XSD
